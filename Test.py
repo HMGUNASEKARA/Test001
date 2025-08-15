@@ -16,6 +16,8 @@ def main():
     b = 3
     print(f"Addition of the two numbers is: {addition(a,b)}")
     print(f"Substraction of the two numbers is: {substraction(a,b)}")
+    print(f"Multiplication of the two numbers is :{multiplication(a,b)}")
+    print(f"Division of the two numbers is: {division(a,b)}")
 
 
 
