@@ -1,3 +1,4 @@
+from Test_02 import fun
 def addition(a, b):
     return a+b
 def substraction(a , b):
@@ -18,6 +19,7 @@ def main():
     print(f"Substraction of the two numbers is: {substraction(a,b)}")
     print(f"Multiplication of the two numbers is :{multiplication(a,b)}")
     print(f"Division of the two numbers is: {division(a,b)}")
+    print(f"function from Test_02.py: {fun(a,b )}")
 
 
 
